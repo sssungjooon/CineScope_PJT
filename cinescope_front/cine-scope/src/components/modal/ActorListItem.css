@@ -1,0 +1,16 @@
+.actor_pic {
+    height: 120px;
+    width: 80px;
+  }
+  
+  .actor-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  .photo-container {
+    margin-bottom: 5px;
+  }
+  
