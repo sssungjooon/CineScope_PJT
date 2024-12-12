@@ -1,0 +1,34 @@
+#movie-detail-section {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  #detail-info-flex {
+    width: 70%;
+  }
+  
+  #add-flex {
+    width: 28%;
+  }
+  
+  #review-flex {
+    width: 30%;
+    transition: 0.5s;
+  }
+  
+  @media (max-width: 1400px) {
+    #detail-info-flex {
+      width: 100%;
+    }
+  
+    #review-flex {
+      width: 100%;
+      transition: 0.5s;
+    }
+  
+    #movie-detail-section {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  

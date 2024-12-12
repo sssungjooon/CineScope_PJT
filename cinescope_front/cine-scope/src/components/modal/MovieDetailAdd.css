@@ -1,0 +1,31 @@
+.actor_info {
+    font-size: 25px;
+    text-align: left;
+  }
+  
+  .add-button {
+    position: fixed;
+    top: 60%;
+    right: 17%;
+  }
+  
+  .genre-list {
+    padding-left: 10px;
+  }
+  
+  .second-info-section {
+    margin-top: 30px;
+  }
+  
+  .detail-genre {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: left;
+  }
+  
+  .more-info {
+    width: auto;
+  }
+  
